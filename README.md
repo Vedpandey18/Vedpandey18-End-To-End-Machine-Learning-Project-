@@ -1,13 +1,13 @@
 End to End ML project
 
 
-'''conda create -n mlproj python=3.8 -y''' 
+__conda create -n mlproj python=3.8 -y__
 
-'''conda activate mlproj'''
+__conda activate mlproj__
 
-'pip install -r requirements.txt'
+__pip install -r requirements.txt__
 
-'python app.py'
+__python app.py__
 
-'open up your local host 0.0.0.0:8080'
+__open up your local host 0.0.0.0:8080__
 
