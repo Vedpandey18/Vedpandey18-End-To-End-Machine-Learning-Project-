@@ -1,4 +1,4 @@
-End to End ML project
+__END TO END PROJECT__
 
 
 __conda create -n mlproj python=3.8 -y__
